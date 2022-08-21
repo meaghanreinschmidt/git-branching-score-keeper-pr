@@ -84,7 +84,7 @@ That's it! Now repeat the steps for your next feature. Make sure to switch back 
 
 ### Stretch Goals
 
-- [ ] **feature-styling** - Add styling to make the page look better
+- [X] **feature-styling** - Add styling to make the page look better
 
 ### Additional Resources
 
