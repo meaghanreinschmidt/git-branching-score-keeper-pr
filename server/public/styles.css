@@ -1,5 +1,6 @@
 body {
   font-family: sans-serif;
+  background-color: #10afc1;
 }
 
 #main_content {
@@ -9,6 +10,9 @@ body {
 
 header {
   text-align: center;
+  border: double 5px;
+  background-color: rgb(97, 0, 97);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .team {
@@ -19,8 +23,28 @@ header {
 
 .team1 {
   background-color: tomato;
+  text-align: center;
 }
 
 .team2 {
   background-color: plum;
+  text-align: center;
+}
+
+button {
+  display: inline-block;
+  padding: .75rem 1.25rem;
+  border-radius: 10rem;
+  background-color:rgb(97, 0, 97);
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  position: relative;
+}
+
+.team-name {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+footer {
+  font-size: x-small;
+  color: rgb(97, 0, 97);
 }
